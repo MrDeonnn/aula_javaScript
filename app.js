@@ -7,3 +7,5 @@ let mult = f1 * f2
 alert(soma)
 alert(div)
 alert(mult)
+
+console.log("Fim");
